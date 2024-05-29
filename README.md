@@ -1,6 +1,6 @@
 # PODCAST-COM-IA-GENERATIVAS | Zoro's Navigation - Mapeamento do Backend: Por Onde Começar?
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DepUI5QjBLwY&psig=AOvVaw2Et3mKX2Mt9a-aVS8rwb5x&ust=1717100877738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDgt7LZs4YDFQAAAAAdAAAAABAE" alt="Ilustração" width="300">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/668c9a8e-f218-4fed-a5e3-58e50fef46f6/dg9f5nh-7090c6fa-a770-4ca8-95a0-efde90d32041.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2OGM5YThlLWYyMTgtNGZlZC1hNWUzLTU4ZTUwZmVmNDZmNlwvZGc5ZjVuaC03MDkwYzZmYS1hNzcwLTRjYTgtOTVhMC1lZmRlOTBkMzIwNDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Le558m0k5sqQRecfAEjbbH-n3ZksVxyYEkQyfBnlBdQ" alt="Ilustração" width="300">
 </div>
 
 

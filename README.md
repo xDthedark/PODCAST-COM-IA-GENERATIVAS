@@ -23,16 +23,7 @@ Resumo conciso das áreas discutidas, destacando as principais responsabilidades
 Parte 3 - Finalização
 Encerramento do episódio, reforçando os principais pontos discutidos e convidando os ouvintes a continuarem explorando o universo da TI com a gente.
 
-Como Usar Este Repositório
-Este repositório contém:
-
-Roteiro do Podcast: O script detalhado utilizado para a gravação do episódio.
-Recursos Adicionais: Links e materiais de estudo recomendados para cada área discutida.
-Feedback e Sugestões: Um espaço para você compartilhar suas opiniões e sugestões para futuros episódios.
-Contribuindo
-Contribuições são bem-vindas! Se você tiver ideias, correções ou sugestões, fique à vontade para abrir uma issue ou enviar um pull request.
-
 Contato
-Para mais informações, siga-nos nas redes sociais e fique por dentro das novidades do "Zoro's Navigation". Vamos juntos desbravar o vasto oceano da tecnologia!
+Para mais informações, siga-nos nas redes sociais e fique por dentro das novidades do "Zoro's Navigation".
 
 Vamos navegar juntos nessa jornada tecnológica! Ahoy!
